@@ -1,4 +1,4 @@
-# Kişisel Tanıtım Sitesi
+# Starbucks Websitesi Clone Projesi
 
 Bu proje, HTML ve CSS kullanarak Starbucks temel alınarak oluşturulmuş basit bir klon arayüzdür.
 
